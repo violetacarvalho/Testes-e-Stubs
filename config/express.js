@@ -12,6 +12,7 @@ module.exports = () => {
   app.use(bodyParser.json());
   
   require('../src/routes/customerWallets')(app);
+  require('../src/routes/zipCode')(app);
   
   return app;
 };

@@ -1,4 +1,3 @@
-const uuid = require('uuid');
 const CustomerWalletsService = require('../services/customerWallets');
 
 module.exports = () => {

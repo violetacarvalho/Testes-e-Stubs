@@ -8,7 +8,4 @@ module.exports = app => {
     app.route('/api/v1/customer-wallets/:customerId')
       .put(controller.updateCustomerWallets)
       .get(controller.readCustomerWallet);
-
-    app.route('/api/v1/customer-wallets/zipcode/:customerId')
-      .get(controller.getZipCodeInfo);
 }
