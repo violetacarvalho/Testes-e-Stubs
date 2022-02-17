@@ -1,0 +1,12 @@
+{
+    "id": "a5becdb8-fcf1-4108-bc93-447cbbfae9f5",
+    "parentId": "a5becdb8-fcf1-4108-bc93-447cbbfae9f5",
+    "name": "Test Customer",
+    "birthDate": "2000/01/01",
+    "cellphone": "11 911111111",
+    "phone": "11 11111111",
+    "email": "test@test.com",
+    "zipCode": "03050-030",
+    "occupation": "Tester",
+    "state": "SP"
+}
